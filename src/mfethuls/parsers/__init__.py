@@ -1,2 +1,2 @@
 from .registry import get_parser, register_parser
-from . import dsc, ftir, nmr, rheometer, tga, uv_vis, sec, dma, saxs
+from . import dsc, ftir, nmr, rheometer, tga, uv_vis, sec, dma, saxs, ms

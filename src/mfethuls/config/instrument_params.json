@@ -85,5 +85,11 @@
     "model": "anton_paar",
     "name": "saxs",
     "experiments": []
+  },
+  {
+    "type": "ms",
+    "model": "bruker",
+    "name": "ms",
+    "experiments": []
   }
 ]
